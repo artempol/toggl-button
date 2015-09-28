@@ -76,7 +76,7 @@
     "*://app.breeze.pm/*",
     "*://www.gqueues.com/*",
     "*://app.codeable.io/*",
-    "*://www.assembla.com/*"
+    "*://www.assembla.com/*",
     "*://*.teamlead.ru/*"
   ],
   "icons": {
@@ -145,7 +145,7 @@
         "*://www.gqueues.com/*",
         "*://app.codeable.io/*",
         "*://waffle.io/*",
-        "*://www.assembla.com/*"
+        "*://www.assembla.com/*",
         "*://*.teamlead.ru/*"
       ],
       "css": ["styles/style.css"],
