@@ -1,9 +1,9 @@
 {
-  "name": "Toggl Button",
-  "short_name": "Toggl Button",
+  "name": "Toggl Button +teamlead",
+  "short_name": "Toggl Button +teamlead",
   "version": "0.7.1",
   "manifest_version": 2,
-  "description": "Add Official Toggl Online Timer to Popular Web Tools",
+  "description": "Add Official Toggl Online Timer to Popular Web Tools, including JURA hosting at teamlead.ru",
   "background": {
     "scripts": [
       "scripts/background.js"
